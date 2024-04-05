@@ -1,3 +1,5 @@
+![image](https://github.com/edi386/Meltdown/assets/166058453/d69310a5-c5ea-47af-aded-1eb3cdedd597)
+
 # Meltdown - A short, ncurses Python console game
 
 A simple, rudimentary even, ncurses-based Python console game that you can always re-play. The premise is: *survive as long as possible.*
